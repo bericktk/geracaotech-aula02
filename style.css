@@ -1,0 +1,20 @@
+body{
+    background-color: #333;
+}
+header{
+    background-color: #870383;
+}
+.logo{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slide{
+    height: 70vh;
+    background-color: crimson;
+}
